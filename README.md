@@ -2,4 +2,4 @@
 
 NUS Business Analytics course
 
-junchen branch README
+Junchen branch README
