@@ -2,4 +2,8 @@
 
 NUS Business Analytics course
 
+<<<<<<< HEAD
 master branch README
+=======
+daryl branch README
+>>>>>>> daryl
