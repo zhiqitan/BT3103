@@ -2,4 +2,7 @@
 
 NUS Business Analytics course
 
-yuzhen branch README
+<<<<<<< HEAD
+master branch README
+=======
+>>>>>>> yuzhen
