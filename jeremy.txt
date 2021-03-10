@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 "jeremy.sim@u.nus.edu" 
 
 "Hi my name is Jeremy, I'm a year 3 Business Analytics student!" 
+=======
+"jeremy_sim@u.nus.edu" 
+"jeremy_sim@u.nus.edu" 
+>>>>>>> Jeremy
