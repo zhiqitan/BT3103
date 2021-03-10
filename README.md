@@ -2,5 +2,3 @@
 
 NUS Business Analytics course
 
-Alvin branch README
-
